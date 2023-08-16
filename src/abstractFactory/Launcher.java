@@ -29,8 +29,7 @@ public class Launcher {
 		UnicaInstancia u2=UnicaInstancia.getUnicaInstancia();
 		
 		System.out.println(tv.toString());
-		System.out.println(tv2.toString());
-		System.out.println(u1.toString());
+	
 		System.out.println(u2.toString());
 		System.out.println(u1.sayHello());
 		System.out.println(u2.sayHello());
