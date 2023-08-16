@@ -9,7 +9,7 @@ public class UnicaInstancia {
 	}
 	
 	public static UnicaInstancia getUnicaInstancia() {
-		
+		//HOLA MUNDO
 		if(myInstancia==null) {
 			myInstancia=new UnicaInstancia();
 		}
