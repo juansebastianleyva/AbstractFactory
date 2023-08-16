@@ -30,9 +30,19 @@ public class Launcher {
 		
 		System.out.println(tv.toString());
 	
-		System.out.println("Hola mundo!");
+		System.out.println("adios mundo");
+
 		System.out.println(u1.sayHello());
 		System.out.println(u2.sayHello());
 	}
+
+	// switch (key) {
+	// 	case value:
+			
+	// 		break;
+	
+	// 	default:
+	// 		break;
+	// }
 
 }
