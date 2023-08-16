@@ -17,8 +17,7 @@ public class Launcher {
 		
 //		BlurayLG bluR=new BlurayLG();
 //		TVSamsung tv= new TVSamsung();
-		
-		
+				
 		Factory factory=new FactoryLG();
 		
 		Bluray bluray=factory.getBluray();
@@ -26,7 +25,6 @@ public class Launcher {
 		TV tv2=factory.getTV();
 		PC pc=factory.getPC();
 		SistemaSonido sistemaSonido=factory.getSistemaSonido();
-		
 		UnicaInstancia u1=UnicaInstancia.getUnicaInstancia();
 		UnicaInstancia u2=UnicaInstancia.getUnicaInstancia();
 		
